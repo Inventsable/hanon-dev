@@ -5,6 +5,11 @@ import store from './store'
 
 Vue.config.productionTip = false
 
+
+import Hanon from '@/components/Hanon'
+
+Vue.component('Hanon', Hanon)
+
 new Vue({
   router,
   store,

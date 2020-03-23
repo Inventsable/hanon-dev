@@ -1,0 +1,1 @@
+export default require('./Hanon.vue').default
